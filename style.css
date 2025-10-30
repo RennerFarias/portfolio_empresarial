@@ -1,0 +1,19 @@
+body{
+    background-image:url(img/Equipe/foto.jpeg);
+    background-size:cover; 
+    background-repeat: no-repeat;
+    
+}
+
+body a:link, a:hover, a:active{
+    color: limegreen;
+}
+
+body a:visited{
+    color:violet;
+}
+
+.titulo1{
+    color:white;
+}
+
