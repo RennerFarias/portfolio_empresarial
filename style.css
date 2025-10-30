@@ -10,10 +10,35 @@ body a:link, a:hover, a:active{
 }
 
 body a:visited{
-    color:violet;
+    color:black;
 }
 
 .titulo1{
     color:white;
+    font-size: 20px;
 }
 
+.titulo2{
+    color:white;
+    font-size: 40px;
+    
+}
+
+.teste{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+    margin: auto;
+}
+
+.botao {
+  position: fixed;       
+  bottom: 20px;         
+  right: 20px;           
+  background-color: blueviolet;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
