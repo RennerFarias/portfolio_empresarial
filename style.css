@@ -6,11 +6,11 @@ body{
 }
 
 body a:link, a:hover, a:active{
-    color: limegreen;
+    color: white;
 }
 
 body a:visited{
-    color:black;
+    color:darkgoldenrod;
 }
 
 .titulo1{
